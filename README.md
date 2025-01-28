@@ -32,11 +32,9 @@ Here is an example of it competiting against the much larger OpenAI GPT-4 model:
 
 **Prompt**: Summarize and analyze the following article focusing on the breakdown of perimeter defenses, social engineering campaigns, and the exploitation of edge devices: 
 
-**GPT-4**: 
+## GPT-4
 
-# Summary and Analysis of Arctic Wolf Labs' 2025 Predictions
-
-## Breakdown of Perimeter Defenses
+### Breakdown of Perimeter Defenses
 - **Expanded Attack Surface**: 
   - The shift towards cloud infrastructure, IoT devices, and remote work has transformed enterprise perimeters, leading to increased vulnerabilities.
 - **Edge Device Exploitation**:
@@ -49,7 +47,7 @@ Here is an example of it competiting against the much larger OpenAI GPT-4 model:
   - Implement continuous vulnerability management.
   - Enhance endpoint visibility and network segmentation.
 
-## Social Engineering Campaigns
+### Social Engineering Campaigns
 - **Increasing Sophistication**:
   - Threat actors leverage crises and generative AI to craft more convincing phishing lures and deepfakes.
   - AI enables advanced voice phishing ("vishing") and video manipulation for identity deception.
@@ -60,7 +58,7 @@ Here is an example of it competiting against the much larger OpenAI GPT-4 model:
   - Limit the impact of breaches with least-privilege access controls.
   - Enhance disaster recovery plans to account for third-party outages.
 
-## Exploitation of Edge Devices
+### Exploitation of Edge Devices
 - **Edge Vulnerabilities**:
   - Devices like IP cameras, VoIP, and industrial IoT gateways are increasingly targeted due to poor built-in security and lack of regular updates.
 - **Quick Turnaround**:
@@ -70,12 +68,12 @@ Here is an example of it competiting against the much larger OpenAI GPT-4 model:
   - Use network segmentation to minimize lateral movement by attackers.
   - Regularly test disaster recovery and backup systems.
 
-## Insights
+### Insights
 - Threat actors are adapting to evolving IT environments, leveraging misconfigurations and human error to breach defenses.
 - AI is a dual challenge, empowering both defenders and adversaries.
 - Edge devices and identity management systems are critical vulnerabilities, emphasizing the need for layered security and proactive measures.
 
-**Fine-tuned Mistral 7b**:
+## Fine-tuned Mistral 7b 
 
 ### 1. Breakdown of Perimeter Defenses  
 **Key Insights**:  
