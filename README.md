@@ -1,7 +1,7 @@
 # Cybersecuirty Assistant 
 
 ## Overview
-This repo contains a fine-tuned version of the Mistral 7B LLM that has been specifically trained on diverse datasets related to cybersecurity. The goal of this project is to leverage state-of-the-art open source language modeling techniques to analyze, generate, and provide insights into cybersecurity incidents, threat reports, intelligence documents, logs, and other relevant areas _locally_.
+This repo contains a fine-tuned version of the Mistral 7B LLM that has been specifically trained on diverse datasets related to cybersecurity. The goal of this project is to leverage state-of-the-art open source language modeling techniques to analyze, generate, and provide insights into cybersecurity incidents, threat reports, intelligence documents, logs, and other relevant areas _locally_ to ensure protection of data and privacy.
 
 ## Features
 - **Specialized Training**: Fine-tuned on a variety of cybersecurity datasets, including:
