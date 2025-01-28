@@ -73,6 +73,8 @@ Here is an example of it competiting against the much larger OpenAI GPT-4 model:
 - AI is a dual challenge, empowering both defenders and adversaries.
 - Edge devices and identity management systems are critical vulnerabilities, emphasizing the need for layered security and proactive measures.
 
+---
+
 ## Fine-tuned Mistral 7b 
 
 ### 1. Breakdown of Perimeter Defenses  
@@ -88,8 +90,6 @@ Here is an example of it competiting against the much larger OpenAI GPT-4 model:
 - Monitor VPN and firewall logs for anomalies.  
 - Maintain an updated inventory of all edge devices.  
 
----
-
 ### 2. Social Engineering Campaigns: AI-Driven Evolution  
 **Key Insights**:  
 - Generative AI enables hyper-realistic phishing, vishing, and deepfake attacks.  
@@ -102,8 +102,6 @@ Here is an example of it competiting against the much larger OpenAI GPT-4 model:
 - Integrate SaaS logs (e.g., Microsoft 365, Okta) for detection of suspicious activity.  
 - Use email security tools (e.g., Mimecast, Barracuda) to flag external emails.  
 
----
-
 ### 3. Exploitation of Edge Devices  
 **Key Insights**:  
 - Edge devices (e.g., medical devices, industrial IoT) often lack built-in security.  
@@ -115,8 +113,6 @@ Here is an example of it competiting against the much larger OpenAI GPT-4 model:
 - Adopt the **3-2-1 backup strategy**: 3 copies, 2 locations, 1 off-site.  
 - Conduct penetration testing to identify edge device vulnerabilities.  
 - Partner with **Managed Detection and Response (MDR)** providers for 24/7 monitoring.  
-
----
 
 ### Conclusion  
 The 2025 threat landscape demands a shift from reactive to **anticipatory security practices**:  
