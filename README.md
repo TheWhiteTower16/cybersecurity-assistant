@@ -118,12 +118,14 @@ Here is an example of it competiting against the much larger OpenAI GPT-4 model:
 The 2025 threat landscape demands a shift from reactive to **anticipatory security practices**:  
 - Evolve perimeter defenses with **zero-trust principles** and continuous monitoring.  
 - Build a culture of security awareness to counter AI-driven social engineering.  
-- Strengthen edge device security through rigorous asset management and patching.  
+- Strengthen edge device security through rigorous asset management and patching. 
 
 **Foundational Best Practices**:  
 - Maintain system inventories.  
 - Prioritize patch management.  
-- Test disaster recovery plans regularly.  
+- Test disaster recovery plans regularly.
+
+---
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
