@@ -1,7 +1,7 @@
 # Cybersecurity Assistant
 
 ## Overview
-This repository contains a fine-tuned version of the LLaMA 70B large language model, specifically trained on diverse datasets related to cybersecurity. The goal of this project is to leverage state-of-the-art language modeling techniques to analyze, generate, and provide insights into cybersecurity incidents, threat reports, intelligence documents, logs, and other relevant areas.
+This repository contains a fine-tuned version of the LLaMA 70B LLM, specifically trained on diverse datasets related to cybersecurity. The goal of this project is to leverage state-of-the-art language modeling techniques to analyze, generate, and provide insights into cybersecurity incidents, threat reports, intelligence documents, logs, and other relevant areas.
 
 ## Features
 - **Specialized Training**: Fine-tuned on a variety of cybersecurity datasets, including:
