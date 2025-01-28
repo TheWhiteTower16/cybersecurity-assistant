@@ -30,7 +30,7 @@ This repo contains a fine-tuned version of the Mistral 7B LLM that has been spec
 
 Here is an example of it competiting against the much larger OpenAI GPT-4 model:
 
-**Prompt**: Summarize and analyze the following article focusing on the breakdown of perimeter defenses, social engineering campaigns, and the exploitation of edge devices: 
+**Prompt**: Summarize and analyze the following article focusing on the breakdown of perimeter defenses, social engineering campaigns, and the exploitation of edge devices: [report](http://arcticwolf.com/resource/_pfcdn/assets/preprocessed/10926/b077a271-4d17-4430-b858-4275a983ed2a/b077a271-4d17-4430-b858-4275a983ed2a.pdf)
 
 ## GPT-4
 
