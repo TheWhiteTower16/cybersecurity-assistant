@@ -11,7 +11,7 @@ This repo contains a fine-tuned version of Qwen2.5-7B that has been specifically
   - Technical research papers
   - Industry whitepapers
 - **Enhanced Understanding**: Optimized for tasks like threat analysis, incident response, and summarizing complex technical documents.
-- **Scalability**: Built using Mistral 7B, a highly efficient and powerful open-source model.
+- **Scalability**: Built using Qwen2.5-7B, a highly efficient and powerful open-source model that can be run locally on most machines.
 
 ## Applications
 - **Threat Analysis**: Identify and interpret patterns in cybersecurity threat data.
