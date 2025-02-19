@@ -21,7 +21,7 @@ This repo contains a fine-tuned version of Qwen2.5-7B that has been specifically
 
 ## Results
 
-Here is an example of it competiting against the much larger OpenAI GPT-4 model:
+Here is an example of it competiting against the much larger OpenAI GPT-4o model:
 
 **Prompt**: Summarize and analyze the following article focusing on the breakdown of perimeter defenses, social engineering campaigns, and the exploitation of edge devices: [report](http://arcticwolf.com/resource/_pfcdn/assets/preprocessed/10926/b077a271-4d17-4430-b858-4275a983ed2a/b077a271-4d17-4430-b858-4275a983ed2a.pdf)
 
